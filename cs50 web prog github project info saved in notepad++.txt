@@ -1,0 +1,10 @@
+CMD LINE INFO
+
+ C:\Users\jdste\OneDrive\Documents\Harvard CS50\
+cs50 Web Programming with Python and JavaScript\Lecture0\cs50_lecture0
+
+Github URL:
+https://github.com/CodingDadof11/cs50_lecture0
+
+
+lecture ay 19:00 Minutes
